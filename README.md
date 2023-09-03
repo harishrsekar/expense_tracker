@@ -2,6 +2,7 @@
 This app was made for the SRMkzilla club's recruitment task.
 The Expense Tracker App is a simple Flutter application that allows you to track your daily expenses. You can add the amount spent or received, and the app calculates the total amount you've spent or earned.
 
+
 ## Images
 ![image](https://github.com/harishrsekar/expense_tracker/assets/113569972/0c4d2610-de7d-46c3-bc15-b3129f9b40af)
 
